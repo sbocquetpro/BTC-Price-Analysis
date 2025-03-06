@@ -3,6 +3,9 @@
 ## Description du Projet
 Ce projet vise à analyser et visualiser l'évolution du prix du Bitcoin (₿) à travers un tableau de bord interactif conçu avec Power BI. Les données proviennent d'un fichier CSV issu de Kaggle, contenant des enregistrements de prix à la minute depuis 2012. L'objectif est d'explorer les tendances du marché, les fluctuations de prix et d'offrir une représentation claire des variations du Bitcoin sur plusieurs années.
 
+## Dashboard
+![BTC Dashboard](https://github.com/sbocquetpro/BTC-Price-Analysis/blob/main/BTC%20Analysis%20Dashboard.png)
+
 ## Objectifs du Projet
 - Créer un dashboard Power BI clair et interactif
 - Analyser l'évolution du prix du Bitcoin sur plusieurs années
@@ -40,3 +43,5 @@ Le tableau de bord final permet une analyse dynamique du prix du Bitcoin avec de
 - Ajouter de nouvelles sources de données pour enrichir l'analyse
 - Intégrer des indicateurs d'analyse technique (ex. : moyennes mobiles, RSI)
 - Créer des prédictions à l'aide du machine learning
+
+
